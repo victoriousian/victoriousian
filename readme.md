@@ -1,15 +1,17 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=shark&text=ABCDEFU&rotate=-3&fontSize=99&animation=blinking&color=timeGradient&fontColor=800080)
+  ![header](https://capsule-render.vercel.app/api?type=shark&text=ABCDEFU&rotate=-2&fontSize=99&animation=blinking&color=timeGradient&fontColor=800080)
 </div>
+<br>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvictoriousian%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align=center>
 <br>
-<h3>AWARDS</h3>
+  <h3>AWARDS</h3>
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=victoriousian&theme=juicyfresh&column=3&margin-w=35&margin-h=35)
+  
 <br>
   <h3>TECH STACKS</h3>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/></a>
@@ -26,7 +28,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hyperleger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=FFFFFF"/></a>
   
 <br>
-<h3>ETC</h3>
+  <h3>ETC</h3>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
@@ -37,9 +39,8 @@
 
 <br>
 <h3>STATS</h3>
-
+  
   ![victoriousian's github stats](https://github-readme-stats.vercel.app/api?username=victoriousian&show_icons=true)
   [![victoriousian's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriousian&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/victoriousian)
   
-
 </div>
