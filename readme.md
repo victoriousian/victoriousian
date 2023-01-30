@@ -39,8 +39,6 @@
 <h3>STATS</h3>
 
   ![victoriousian's github stats](https://github-readme-stats.vercel.app/api?username=victoriousian&show_icons=true)
-<br>
-
   [![victoriousian's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriousian&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/victoriousian)
   
 
