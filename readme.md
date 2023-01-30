@@ -9,7 +9,7 @@
 <br>
 <h3>AWARDS</h3>
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=victoriousian)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=victoriousian&theme=juicyfresh&column=3&margin-w=35&margin-h=35)
 <br>
   <h3>TECH STACKS</h3>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/></a>
