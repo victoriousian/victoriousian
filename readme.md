@@ -14,28 +14,31 @@
   
 <br>
   <h3>TECH STACKS</h3>
+  <a href="#" target="_blank"><img src="![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hyperleger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=FFFFFF"/></a>
+
+  <a href="#" target="_blank"><img src="	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/></a>
-
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=FFFFFF"/></a>
-
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hyperleger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
+
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=FFFFFF"/></a>
   
 <br>
   <h3>ETC</h3>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=FFFFFF"/></a>
 
 <br>
 <h3>STATS</h3>
