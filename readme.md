@@ -4,8 +4,10 @@
 </div>
 
 <div align="center">
-  <h3>DONATE</h3>
+  <h3>DONATE 후원</h3>
   <p>
+    제가 공개하는 소스코드 연구, 개발이 도움이 되었다면<br>
+    아래 BTC 지갑으로 후원하실 수 있습니다.
     I build, test, break, and rebuild things in blockchain and software.<br>
     If something here helped you, inspired you, or saved your time,<br>
     you can back the next experiment with BTC.
