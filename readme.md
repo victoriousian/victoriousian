@@ -16,6 +16,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Support%20via-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   </a>
+  <br>
   <code>🎁 BTC Wallet: 1JADombahDcTHR4yNywfWKtckt7zKyNHwF</code>
 </div>
 
