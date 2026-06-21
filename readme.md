@@ -1,75 +1,77 @@
-<div align=center>
-  
-  ![header](https://capsule-render.vercel.app/api?type=shark&text=ABCDEFU&rotate=-2&fontSize=99&animation=blinking&color=timeGradient&fontColor=800080)
+<div align="center">
+
+# victoriousian
+
+### Building safer agent systems, blockchain infrastructure, and useful developer tools.
+
+I like small tools with sharp edges filed down: local-first automation, auditable
+agent workflows, protocol experiments, and security-minded engineering.
+
+[![GitHub](https://img.shields.io/badge/GitHub-victoriousian-181717?style=flat-square&logo=github)](https://github.com/victoriousian)
+[![Agent Safety Kit](https://img.shields.io/badge/Shipping-Agent%20Safety%20Kit-0A7AFF?style=flat-square)](https://github.com/victoriousian/agent-safety-kit)
+[![Focus](https://img.shields.io/badge/Focus-AI%20Agents%20%2F%20Blockchain%20%2F%20Systems-7C3AED?style=flat-square)](#)
+
 </div>
+
+---
+
+## Now
+
+- Shipping [Agent Safety Kit](https://github.com/victoriousian/agent-safety-kit): local-first safety rails for AI-agent operators.
+- Exploring agent continuity, reversible file operations, skill-intake gates, and memory hygiene.
+- Still close to blockchain: protocols, wallets, audit trails, incentives, and trust-minimized systems.
+
+## What I Build
+
+```text
+agent safety        rollback-first tools, checkpoints, local reports
+systems             CLIs, automation, validators, operational dashboards
+blockchain          smart contracts, protocol experiments, wallet/payment flows
+product             small tools that can become real businesses
+```
+
+## Working Style
+
+- Prefer boring reliability over magical demos.
+- Keep private data local by default.
+- Make automation auditable before making it autonomous.
+- Ship small, test the edges, then compound.
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+</p>
+
+## Featured
+
+| Project | What it is |
+|---|---|
+| [Agent Safety Kit](https://github.com/victoriousian/agent-safety-kit) | Local-first safety rails for people running AI agents that edit files, install tools, or continue work across sessions. |
+| Agent Safety Kit Pro | Private pro analyzers for context pulse, taskflow audit, memory hygiene, dashboards, and CI checks. |
+| Blockchain experiments | Protocol and payment experiments around auditability, incentives, and operational trust. |
+
+## GitHub Signal
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victoriousian&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriousian&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
 
 <div align="center">
-  <h3>DONATE 후원</h3>
-  <p>
-    제가 공개하는 소스코드 연구, 개발이 도움이 되었다면<br>
-    아래 BTC 지갑으로 후원하실 수 있습니다.
-    I build, test, break, and rebuild things in blockchain and software.<br>
-    If something here helped you, inspired you, or saved your time,<br>
-    you can back the next experiment with BTC.
-  </p>
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20via-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  </a>
-  <br>
-  <code>🎁 BTC Wallet: 1JADombahDcTHR4yNywfWKtckt7zKyNHwF</code>
-</div>
+`local-first` · `agent safety` · `blockchain systems` · `developer tools` · `quietly intense nerd energy`
 
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvictoriousian%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<div align=center>
-<br>
-  <h3>AWARDS</h3>
-
-  ![trophy](https://github-profile-trophy.vercel.app/?username=victoriousian&theme=juicyfresh&column=3&margin-w=35&margin-h=35)
-  
-<br>
-  <h3>TECH STACKS</h3>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white"/></a>  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/XRP-black?style=for-the-badge&logo=xrp&logoColor=white"/></a>  
-
-<br><br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/></a>
-<br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
-
-<br><br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=FFFFFF"/></a>
-
-<br><br>
-  <h3>ETC</h3>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-
-<br>
-<h3>STATS</h3>
-  
-  ![victoriousian's github stats](https://github-readme-stats.vercel.app/api?username=victoriousian&show_icons=true)
-  [![victoriousian's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriousian&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/victoriousian)
-  
 </div>
